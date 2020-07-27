@@ -1,6 +1,6 @@
 # Gapminder Data Analysis
 
-In this project it is going to be analyzed the data associated with Gapminder (https://www.gapminder.org/), an independent Swedish foundation that fights devastating misconceptions about global development. In particular, it´s goal isto find trends among countries that have significantly improved their educational level in recent years and how this improvement relates to wealth, population density, CO2 emissions associated to fossil fuels and human development index.
+In this project it is going to be analyzed the data associated with [Gapminder](https://www.gapminder.org/), an independent Swedish foundation that fights devastating misconceptions about global development. In particular, it´s goal isto find trends among countries that have significantly improved their educational level in recent years and how this improvement relates to wealth, population density, CO2 emissions associated to fossil fuels and human development index.
 
 The data to be used are the following:
 
