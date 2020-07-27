@@ -4,17 +4,17 @@ In this project it is going to be analyzed the data associated with Gapminder (h
 
 The data to be used are the following:
 
--**Mean years of school until 25-34 years old**
+- **Mean years of school until 25-34 years old**
 Average number of years of school attended by all people in the age and gender group specified, including primary, secondary and tertiary education.
 
--**GDP/person**
+- **GDP/person**
 Gross Domestic Product per person adjusted for differences in purchasing power (in international dollars, fixed 2011 PPP based on 2011 ICP).
 
--**Population density**
+- **Population density**
 Average number of people on each square km of land in the given country.
 
--**CO2 emissions/person**
+- **CO2 emissions/person**
 Carbon dioxide emissions from the burning of fossil fuels (Metric tonnes of C02 per person).
 
--**Human development index**
+- **Human development index**
 Human Development Index is an index used to rank countries by level of "human development". It contains three dimensions: health level, educational level and living standard.
