@@ -24,5 +24,16 @@ Human Development Index is an index used to rank countries by level of "human de
 # Analysis
 The analysis has been done in two Jupyter Notebooks that can be downloaded from the following links:
 
-- Data Wrangling: [Data Wrangling Gapminder](rubenvf/Gapminder/Data Wrangling Gapminder.ipynb)
-- Data Wrangling: [Data Wrangling Gapminder](../Data Wrangling Gapminder.ipynb)
+- Data Wrangling: `Data Wrangling Gapminder.ipynb`| [Preview](https://github.com/rubenvf/Gapminder/blob/master/Data%20Wrangling%20Gapminder.ipynb)
+- Data Analysis: `Gapminder Analysis.ipynb`| [Preview](https://github.com/rubenvf/Gapminder/blob/master/Gapminder%20Analysis.ipynb)
+
+# Conclusion
+
+
+- A **general increase trend** in the mean of all the variables is observed in a linear manner with two exceptions. GDP per capita has decreased in 2008, this could be explained by the financial crisis, and has resumed the incremental trend in 2009. CO2 emissions per capita have increased until 2008 and have started to fluctuate with a slightly decreasing trend since then.
+
+- The **greatest increase in GDP** per capita has been observed in the countries with the **lowest incomes**.
+
+- A **strong correlation of education with GDP** per capita (R = 0.54) and a **moderate correlation between education and CO2 emissions** per capita (R = 0.44) have been observed. This difference could leave room for more advanced research to understand how to improve economically without increasing pollution.
+
+- Among the countries with more than 14 years of average education duration, it has been observed that **Sweden could be a model to follow in the green transition** as it shows a very high GDP per capita and low CO2 emissions.
