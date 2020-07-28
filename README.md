@@ -2,6 +2,8 @@
 
 In this project it is going to be analyzed the data associated with [Gapminder](https://www.gapminder.org/), an independent Swedish foundation that fights devastating misconceptions about global development. In particular, it´s goal isto find trends among countries that have significantly improved their educational level in recent years and how this improvement relates to wealth, population density, CO2 emissions associated to fossil fuels and human development index.
 
+# Data
+
 The data to be used are the following:
 
 - **Mean years of school until 25-34 years old**
@@ -18,3 +20,8 @@ Carbon dioxide emissions from the burning of fossil fuels (Metric tonnes of C02 
 
 - **Human development index**
 Human Development Index is an index used to rank countries by level of "human development". It contains three dimensions: health level, educational level and living standard.
+
+# Analysis
+The analysis has been done in two Jupyter Notebooks that can be downloaded from the following links:
+
+- Data Wrangling: [Data Wrangling Gapminder](rubenvf/Gapminder/Data Wrangling Gapminder.ipynb)
