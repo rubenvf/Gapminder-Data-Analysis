@@ -25,3 +25,4 @@ Human Development Index is an index used to rank countries by level of "human de
 The analysis has been done in two Jupyter Notebooks that can be downloaded from the following links:
 
 - Data Wrangling: [Data Wrangling Gapminder](rubenvf/Gapminder/Data Wrangling Gapminder.ipynb)
+- Data Wrangling: [Data Wrangling Gapminder](../Data Wrangling Gapminder.ipynb)
